@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolFunc", "BoolFunc\BoolFunc.csproj", "{BACDA788-8B93-4D06-A57A-B01AA6C52E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACDA788-8B93-4D06-A57A-B01AA6C52E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACDA788-8B93-4D06-A57A-B01AA6C52E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACDA788-8B93-4D06-A57A-B01AA6C52E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACDA788-8B93-4D06-A57A-B01AA6C52E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B9C24C-974A-419F-B137-D27E70F45205}
+	EndGlobalSection
+EndGlobal

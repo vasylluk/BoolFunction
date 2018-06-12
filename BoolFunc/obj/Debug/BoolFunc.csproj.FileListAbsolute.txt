@@ -1,0 +1,7 @@
+C:\Users\vasyl\source\repos\BoolFunc\BoolFunc\bin\Debug\BoolFunc.exe.config
+C:\Users\vasyl\source\repos\BoolFunc\BoolFunc\bin\Debug\BoolFunc.exe
+C:\Users\vasyl\source\repos\BoolFunc\BoolFunc\bin\Debug\BoolFunc.pdb
+C:\Users\vasyl\source\repos\BoolFunc\BoolFunc\obj\Debug\BoolFunc.csprojResolveAssemblyReference.cache
+C:\Users\vasyl\source\repos\BoolFunc\BoolFunc\obj\Debug\BoolFunc.csproj.CoreCompileInputs.cache
+C:\Users\vasyl\source\repos\BoolFunc\BoolFunc\obj\Debug\BoolFunc.exe
+C:\Users\vasyl\source\repos\BoolFunc\BoolFunc\obj\Debug\BoolFunc.pdb
